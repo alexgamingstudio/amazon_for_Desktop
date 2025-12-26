@@ -33,7 +33,7 @@
             <h3 class="text-2xl font-bold mb-2">Download for Windows</h3>
             <p class="text-sm text-gray-500 mb-6">Version 1.0.0 | .msi installer | 64-bit</p>
             
-            <a href="https://github.com/alexgamingstudio/amazon_for_desktop/releases/download/v1.0.0/amazon.msi" 
+            <a href="https://github.com/alexgamingstudio/amazon_for_Desktop/releases/download/Amazon/amazon.msi" 
                class="amazon-btn text-white font-bold py-4 px-10 rounded-full inline-block text-lg shadow-lg transform hover:scale-105 transition">
                <i class="fas fa-download mr-2"></i> Download Now
             </a>
