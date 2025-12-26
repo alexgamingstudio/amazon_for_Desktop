@@ -34,3 +34,5 @@ dotnet publish -r win-x64 --self-contained true -p:PublishSingleFile=true -o bin
 ```powershell
 wix build amazon.wxs -o amazon.msi
 ```
+---
+*Developed by AlexGaming®*
